@@ -10,3 +10,7 @@ api by http://ip-api.com/json/
 
 # installation 
 
+```bash
+git clone https://github.com/krunalbhuinya/Ipinfo.git ```
+
+
