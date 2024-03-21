@@ -1,6 +1,12 @@
 # ipinfo
 This python program ip address lookup
 script.
+
+# Features
+1. this project in beta version
+2. this project information to ip address info and LIVE LOCATION
+3. this program output and logs save in ipinfo.json
+
 # note
 1.this project in beta version 
 2.this script work in Linux os / termux app
@@ -8,9 +14,13 @@ script.
 # api use  
 api by http://ip-api.com/json/
 
-# installation 
+# installation and use
 
 ```bash
-git clone https://github.com/krunalbhuinya/Ipinfo.git ```
+apt installl git
+git clone https://github.com/krunalbhuinya/Ipinfo.git
+cd Ipinfo & ls
+python3 ip2.py
+```
 
 
