@@ -20,7 +20,7 @@ api by http://ip-api.com/json/
 apt installl git
 git clone https://github.com/krunalbhuinya/Ipinfo.git
 cd Ipinfo & ls
-python3 ip2.py
+python3 ipinfo.py
 ```
 
 
